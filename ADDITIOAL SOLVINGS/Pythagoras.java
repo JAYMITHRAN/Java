@@ -5,13 +5,13 @@ class Friday{
    
     Scanner jarvis = new Scanner(System.in);
     int a = jarvis.nextInt();
-    for (int i=1;i<=20;i++)
+    for (int i=1;i<=a;i++)
     {
-      for(int j=1;j<=20;j++)
+      for(int j=1;j<=a;j++)
       {
         if(j!=i)
         {
-          for (int k=1;k<=20;k++)
+          for (int k=1;k<=a;k++)
           {
             if((i*i) + (j*j)==(k*k))
             {
