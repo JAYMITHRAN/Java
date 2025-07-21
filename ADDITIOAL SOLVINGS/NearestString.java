@@ -1,9 +1,9 @@
-public class NearestString
-{
-  public static int MinimumSteps(String s,String Word1,String Word2)
-  {
-    String [] arr = s.split(" ");
+// public class NearestString
+// {
+//   public static int MinimumSteps(String s,String Word1,String Word2)
+//   {
+//     String [] arr = s.split(" ");
 
-    arr.indexOf(Word1) - 
-  }
-}
+//     arr.indexOf(Word1) - 
+//   }
+// }
